@@ -1,0 +1,3 @@
+/Users/ninjacornix/algotrade/CMakeFiles/trader.dir
+/Users/ninjacornix/algotrade/CMakeFiles/edit_cache.dir
+/Users/ninjacornix/algotrade/CMakeFiles/rebuild_cache.dir
